@@ -1,19 +1,21 @@
-# Personal Website Portfolio – Deployment & Hosting Project
-
 ## Project Overview
-This project demonstrates the development, deployment, and local hosting of a fully responsive website created using HTML5 and CSS3. The website showcases modern web design practices, including semantic structure, responsive layouts, and clean visual styling.
+This project is a fully functional portfolio-style website built using HTML5 and CSS3. The purpose of this website is to demonstrate my ability to design, structure, style, and deploy a responsive webpage while following modern web development practices.
 
-In addition to building the website, this project focuses on real-world developer workflows such as documenting a project using Markdown, deploying a live site with GitHub Pages, and running a local server environment using XAMPP.
+The website includes multiple sections such as an About section, a Projects section, and a Contact section. It is designed to be clean, user-friendly, and responsive across different devices. This project also includes deployment using GitHub Pages and local hosting using XAMPP.
 
 ---
 
 ## Website Features
 
-- Responsive design using Flexbox and media queries  
-- Structured layout using semantic HTML5 elements  
-- Clean and modern visual styling with CSS3  
-- Multi-section layout (Home, About, Portfolio, Contact)  
-- Organized and readable code with comments  
+- Semantic HTML5 structure for accessibility and organization  
+- Navigation menu with internal links  
+- About section with personal introduction  
+- Projects section with a structured table and preview images  
+- Contact form with input fields (Name, Email, Subject, Message)  
+- CSS styling including colors, spacing, and layout  
+- Hover effects and transitions for interactivity  
+- Responsive layout using Flexbox  
+- Media queries for mobile, tablet, and desktop devices  
 
 ---
 
@@ -21,97 +23,97 @@ In addition to building the website, this project focuses on real-world develope
 
 - HTML5  
 - CSS3  
-- GitHub Pages (for live hosting)  
-- XAMPP (for local hosting environment)  
+- Flexbox  
+- Media Queries  
+- GitHub (Version Control)  
+- GitHub Pages (Deployment)  
+- XAMPP (Local Hosting)  
 
 ---
 
-## GitHub Pages Deployment
+## File Structure
 
-This website has been successfully deployed using GitHub Pages.
-
-### Steps Completed:
-1. Navigated to repository settings on GitHub  
-2. Selected the **Pages** section  
-3. Set the branch to **main** and folder to **/ (root)**  
-4. Saved configuration and allowed deployment to complete  
-
-### Live Website:
-👉 https://yourusername.github.io/your-repository-name  
+- `index.html` – main webpage structure  
+- `styles.css` – styling, layout, transitions, and responsiveness  
+- `README.md` – project documentation  
+- `screenshot.png` – screenshot of locally hosted webpage  
 
 ---
 
-## Local Hosting Using XAMPP
+## Live Website
 
-The website was also tested locally using XAMPP to simulate a real server environment.
+Add your GitHub Pages website link below:
 
-### Steps Completed:
-1. Installed and opened XAMPP  
-2. Started the Apache server  
-3. Placed project files inside the `htdocs` folder  
-4. Accessed the site using a local URL (e.g., http://localhost/your-folder-name)  
-
----
-
-## Localhost Screenshot
-
-The screenshot below shows the website running locally using XAMPP.  
-It includes the full URL and system timestamp as required.
-
-<img width="1902" height="989" alt="Screenshot 2026-04-05 141212" src="https://github.com/user-attachments/assets/2067d78c-9879-4fb6-aeb6-83f99bfa90f8" />
-
-
----
-
-## AI Assistant Usage (Prompt Engineering)
-
-The Web Design Assistant (AI tool) was used to support the development of this project.
-
-### How AI Was Used:
-- Generated structure and content for the README.md file  
-- Provided step-by-step instructions for setting up XAMPP  
-- Assisted with troubleshooting and improving code formatting  
-
-### AI Chat Link:
-👉 https://genai.ecpi.edu/canvas/share/c80f7fcf-f0b2-48dc-8ab5-48e5abb3018e
+**GitHub Pages Link:**  
+https://pellis2130.github.io/
 
 ---
 
 ## Repository Link
 
-👉 https://github.com/pellis2130/pellis2130.github.io 
+Add your GitHub repository link below:
+
+**GitHub Repository:**  
+https://github.com/pellis2130/pellis2130.github.io.git
 
 ---
 
-## Code Quality & Comments
+## Local Hosting with XAMPP
 
-All HTML and CSS files have been reviewed and include comments explaining key sections of the code. The code is properly structured, indented, and organized to improve readability and maintainability.
+This project was launched locally using XAMPP to simulate a real server environment.
+
+### Steps completed:
+1. Opened XAMPP Control Panel  
+2. Started the Apache server  
+3. Placed project files into the `htdocs` folder  
+4. Opened the website in a browser using a localhost URL  
+
+Example:  
+http://localhost/mypersonalwebsite/
 
 ---
 
-## How to Run the Project
+## Localhost Screenshot
 
-### Option 1: Live Website
-Visit the deployed site using the GitHub Pages link above.
+The screenshot below shows the website running locally using XAMPP. The image includes the full URL and system timestamp as required.
 
-### Option 2: Local (XAMPP)
-1. Open XAMPP Control Panel  
-2. Start Apache  
-3. Place files in `htdocs`  
-4. Open browser and go to:
-   http://localhost/your-folder-name  
+<img width="1902" height="989" alt="Screenshot 2026-04-05 141212" src="https://github.com/user-attachments/assets/51c1080d-0834-461d-83a2-167435a73b76" />
+
+---
+
+## AI Assistant Usage (Prompt Engineering)
+
+The Web Design Assistant was used throughout this project to assist with development and documentation.
+
+### How AI was used:
+- Helped structure and format the README.md file  
+- Provided guidance for GitHub Pages setup  
+- Assisted with XAMPP setup and local hosting  
+- Helped refine project documentation and code explanations  
+
+### Web Design Assistant Chat Link
+
+https://genai.ecpi.edu/canvas/share/c80f7fcf-f0b2-48dc-8ab5-48e5abb3018e
+
+---
+
+## Code Review and Comments
+
+The code for this project was reviewed and includes comments explaining key sections. The HTML and CSS files are properly structured, indented, and organized for readability and maintainability.
 
 ---
 
 ## Purpose of the Project
 
 The purpose of this project is to demonstrate:
-- Website development using HTML and CSS  
-- Deployment using GitHub Pages  
-- Local hosting using XAMPP  
-- Proper documentation using Markdown  
+- Building a structured website using semantic HTML5  
+- Styling and layout design using CSS3  
+- Creating a responsive design for multiple devices  
+- Deploying a website using GitHub Pages  
+- Running a local server using XAMPP  
+- Documenting a project using Markdown  
 
-This project reflects real-world web development practices and prepares for professional workflows.
+This project reflects real-world web development practices and builds a strong foundation for future development work.
 
 ---
 
@@ -124,4 +126,4 @@ Software Development Student
 
 ## License
 
-This project is created for educational purposes and is not intended for commercial use.
+This project is created for educational purposes only.

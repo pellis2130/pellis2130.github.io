@@ -42,16 +42,12 @@ The website includes multiple sections such as an About section, a Projects sect
 
 ## Live Website
 
-Add your GitHub Pages website link below:
-
 **GitHub Pages Link:**  
 https://pellis2130.github.io/
 
 ---
 
 ## Repository Link
-
-Add your GitHub repository link below:
 
 **GitHub Repository:**  
 https://github.com/pellis2130/pellis2130.github.io.git
@@ -77,19 +73,18 @@ http://localhost/mypersonalwebsite/
 
 The screenshot below shows the website running locally using XAMPP. The image includes the full URL and system timestamp as required.
 
-<img width="1902" height="989" alt="Screenshot 2026-04-05 141212" src="https://github.com/user-attachments/assets/51c1080d-0834-461d-83a2-167435a73b76" />
+<img width="1912" height="1036" alt="Screenshot 2026-04-05 143329" src="https://github.com/user-attachments/assets/f7df35ba-5e4b-4b05-a96b-917dfd3f6562" />
+
 
 ---
 
-## AI Assistant Usage (Prompt Engineering)
+## AI Assistant Usage
 
 The Web Design Assistant was used throughout this project to assist with development and documentation.
 
 ### How AI was used:
 - Helped structure and format the README.md file  
-- Provided guidance for GitHub Pages setup  
-- Assisted with XAMPP setup and local hosting  
-- Helped refine project documentation and code explanations  
+- Assisted with XAMPP setup and local hosting   
 
 ### Web Design Assistant Chat Link
 
